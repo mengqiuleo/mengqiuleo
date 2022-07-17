@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning vue,webpack...
-- 📫 How to reach me: wx:real-pjyOwO  QQ: 1003346758
+- 🔭 Aspire to become an excellent front-end engineer~
+- 📫 wx:real-pjyOwO  QQ: 1003346758
 - ⚡ [CSDN](https://blog.csdn.net/weixin_52834435?spm=1000.2115.3001.5343)
 - 💬 [my blog](https://panjingyi.top)
-- 🔭 Aspire to become an excellent front-end engineer~
+
