@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mengqiuleo&repo=github-readme-stats" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengqiuleo&theme=default&show_icons=true)
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mengqiuleo&repo=convoychat" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengqiuleo)](https://github.com/anuraghazra/github-readme-stats)
 </a>
