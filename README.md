@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengqiuleo&theme=vue&show_icons=true)
 
-
+![snake gif](https://github.com/yusixian/yusixian/blob/output/github-contribution-grid-snake.gif)
