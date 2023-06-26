@@ -5,7 +5,7 @@
 
 ### Hi here is xiaoy 👋
 
-![](https://komarev.com/ghpvc/?username=mengqiuleo&color=brightgreen&style=for-the-badge)
+
 
 
 Here are some ideas to get you started:
@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 <p align="center">
 <h2 height="200px" align="center">Hi here is xiaoy <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
 <h2 align="center">A passionate frontend developer from China</h3>
+
+<div align='center'>
+  <img src='https://komarev.com/ghpvc/?username=mengqiuleo&color=brightgreen&style=for-the-badge' />
+</div>
+
 </p>
 
 <p align="center">
