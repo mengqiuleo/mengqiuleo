@@ -5,6 +5,8 @@
 
 ### Hi here is xiaoy 👋
 
+![](https://komarev.com/ghpvc/?username=mengqiuleo&color=brightgreen&style=for-the-badge)
+
 
 Here are some ideas to get you started:
 
