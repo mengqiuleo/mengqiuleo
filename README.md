@@ -104,7 +104,6 @@ Here are some ideas to get you started:
 - 🔭 Aspire to become an excellent front-end engineer~
 - 📫 wx: real-pjyOwO  qq: 1003346758
 - ⚡ [CSDN](https://blog.csdn.net/weixin_52834435?spm=1000.2115.3001.5343)
-- 💬 [my blog](https://panjingyi.top)
 <br/>
 
 
