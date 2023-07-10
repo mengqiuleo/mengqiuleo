@@ -112,7 +112,6 @@ Here are some ideas to get you started:
 ![https://img.shields.io/badge/website-%E5%B0%8F%E9%A3%9E%E4%BE%A0Pan-green](https://img.shields.io/badge/website-%E7%A8%8B%E5%BA%8F%E5%AA%9B%E5%B0%8Fy-green)
 -->
 
-> 但因热爱，愿迎万难
 
 <br/>
 
