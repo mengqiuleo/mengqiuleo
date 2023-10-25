@@ -8,6 +8,7 @@
 
 
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -30,6 +31,7 @@ Here are some ideas to get you started:
     Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, here is xiaoy
   </h1>
    <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
+   <strong><p align="center">找实习，求内推</p></strong>
 </p>
 
 
