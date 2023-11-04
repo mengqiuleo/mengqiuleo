@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/-Next-black?style=flat&logo=next.js&logoColor=white">
 
+   <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
 
 -->
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
   <h1 height="200px" align="center">
     Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, here is xiaoy
   </h1>
-   <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
    <strong><p align="center">找实习，求内推</p></strong>
 
 </p>
@@ -104,13 +104,12 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://doc.panjingyi.top/blog/202207031041891.gif?raw=true" width="300"/>
 
 - 🌱 I’m currently learning vue,webpack...
-- 🔭 Aspire to become an excellent front-end engineer~
 - 📫 wx: real-pjyOwO  qq: 1003346758
 - ⚡ [CSDN](https://blog.csdn.net/weixin_52834435?spm=1000.2115.3001.5343)
 <br/>
 
 ~~24届准前端开发工程师~~<br/>
-   坚持不住了
+   有点失望
 
 
 <!--
