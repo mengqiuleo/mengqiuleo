@@ -103,9 +103,9 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://doc.panjingyi.top/blog/202207031041891.gif?raw=true" width="300"/>
 
-- 🌱 I’m currently learning vue,webpack...
+- 🌱 一枚前端
 - 📫 wx: real-pjyOwO  qq: 1003346758
-- ⚡ [CSDN](https://blog.csdn.net/weixin_52834435?spm=1000.2115.3001.5343)
+- ⚡ [xiaoy's blog](https://mengqiuleo.github.io/)
 <br/>
 
 ~~24届准前端开发工程师~~<br/>
