@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <h1 height="200px" align="center">
     Hi <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, here is xiaoy
   </h1>
-   <strong><p align="center">找实习，求内推</p></strong>
+   <strong><p align="center">🌱 一枚前端</p></strong>
 
 </p>
 
@@ -103,7 +103,6 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://doc.panjingyi.top/blog/202207031041891.gif?raw=true" width="300"/>
 
-- 🌱 一枚前端
 - 📫 wx: real-pjyOwO  qq: 1003346758
 - ⚡ [xiaoy's blog](https://mengqiuleo.github.io/)
 <br/>
