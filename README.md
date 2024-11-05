@@ -139,5 +139,5 @@ Here are some ideas to get you started:
 </picture>
 -->
 
-![](https://raw.githubusercontent.com/mengqiuleo/mengqiuleo/70ccfb314e1a8c83773a77584e99a127bfcc31d7/github-contribution-grid-snake.svg)
+
 
