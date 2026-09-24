@@ -125,9 +125,9 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengqiuleo&theme=vue&show_icons=true)
+![GitHub Stats](./profile/stats.svg)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mengqiuleo&layout=compact&hide_border=true&langs_count=6)
+![Most Used Languages](./profile/top-langs.svg)
 
 
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
